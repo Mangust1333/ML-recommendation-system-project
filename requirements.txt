@@ -1,4 +1,12 @@
+pandas
+datasets
+tqdm
+optuna
+recbole
+scipy
+matplotlib
 numpy
 scikit-learn
-seaborn
-pandas
+implicit
+scikit-surprise
+torch
